@@ -1,1 +1,13 @@
 # CS340
+How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+Writing maintainable and readable code involves using clear naming conventions, modular design, and documentation. Version control and code organization are crucial for adaptability.Ensuring your codebase is well-organized and follows coding style guidelines enhances maintainability and readability, while modularity and testing support adaptability. Using a CRUD module separates database operations, making code more organized and promoting reusability. It simplifies maintenance by abstracting database complexities and improving readability and adaptability. The module can be used in various parts of the project and other projects and extended for additional functionality, making it a valuable tool for collaboration within the team. It would simply be a matter of modifying the code to fit the needs of a company.
+
+How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+As a computer scientist, the approach involves clearly defining the problem, planning architecture, iterative development, and rigorous testing. Collaboration and real-world problem-solving are emphasized. In contrast to academic assignments, real-world projects require integration with external systems, collaboration with stakeholders, and a focus on practical problem-solving to meet client needs. To develop databases in the future for client requests, I would gather all the information together at once and make changes as needed with the approval of the client. 
+
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, do their work better?
+Computer scientists play a vital role in designing, developing, and maintaining software systems to address real-world challenges. Their work is critical because it helps businesses and organizations operate more efficiently, make data-driven decisions, and improve services. In projects like Grazioso Salvare, the CRUD module and dashboard enhance animal shelter management, leading to informed decisions and improving overall efficiency and effectiveness in animal care and rescue operations.
+
+
+
+
